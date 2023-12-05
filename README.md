@@ -17,7 +17,7 @@ In folder `code`
 import Engine;
 import java.io.File;
 
-public class mycode {
+public class App {
     public void static main(){
         Scene s = new Scene(new File("BongoyeEngine\\level.bng"));
       sceneManager.loadScene(s);
