@@ -13,16 +13,17 @@ The workspace contains 1 folders ,where : `/Engine/`
 ## Run
 In folder `code`
 
-``````
+``` java
 import Engine;
+import java.io.File;
 
 public class mycode {
     public void static main(){
-        Scene s = new Scene(new File("E:\\GameEngine\\Engine\\src\\BongoyeEngine\\level.bng"));
+        Scene s = new Scene(new File("BongoyeEngine\\level.bng"));
       sceneManager.loadScene(s);
     }
 }
-``````
+```
 
 ## Dependencies
 - JOGL
