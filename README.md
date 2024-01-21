@@ -31,9 +31,3 @@ public class App {
 ## Manual
 Currently in development
 
-
-## Socials
->- [facebook](facebook.com/@bongoyedaniel)
->- [twitter](facebook.com/@bongoyedaniel)
->- [instagram](facebook.com/@bongoyedaniel)
->- [gmail](mailto:danielbongoye@gmail.com)
